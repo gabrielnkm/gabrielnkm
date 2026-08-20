@@ -14,9 +14,9 @@ I enjoy building things from scratch, experimenting with new technologies, and f
 
 Fun Facts:
 
-• I really enojoy drinking tea
-• [Sousou no Frieren](https://anilist.co/user/moonpsd/) is my favorite anime
-• Hobbies: anime, gaming, draw and music
+• I really enjoy drinking tea <br>
+• [Sousou no Frieren](https://anilist.co/user/moonpsd/) is my favorite anime <br>
+• Hobbies: anime, gaming, draw and music <br>
 
 <!--
 **gabrielnkm/gabrielnkm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
